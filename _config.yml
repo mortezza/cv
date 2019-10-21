@@ -1,23 +1,23 @@
 # Site
-repository: sproogen/resume-theme
+repository: mortezza/
 # favicon: images/favicon.ico
 
 # Personal info
 name: Morteza Saki
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+title: Information Security Expert
+email: mortezasaki91[at]gmail[dot]com
+#website: www.github.com/sproogen/resume-theme
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+#twitter_username: facespics
+github_username:  mortezza
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: jameswgrant
+instagram_username: morteza_sa__
+#linkedin_username: jameswgrant
 # pinterest_username: jekyll
-youtube_username: globalmtb
+#youtube_username: globalmtb
 # googleplus_username: +jekyll
 
 # About Section
